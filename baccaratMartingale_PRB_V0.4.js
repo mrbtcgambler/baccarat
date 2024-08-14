@@ -1,5 +1,5 @@
 //********************************************************************************************
-//** Baccarat PRB based on this video: TBD                                                  **
+//** Baccarat PRB based on this video: https://youtu.be/7Aj3QLKiMqE                         **
 //** Version: 0.4                                                                           ** 
 //** Date: 07/08/2024                                                                       **
 //** Authour: MrBtcGambler                                                                  **
